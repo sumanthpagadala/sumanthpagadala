@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src= "https://media.giphy.com/media/RPwrO4b46mOdy/giphy.gif">
+  <img src= "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 
 ---
