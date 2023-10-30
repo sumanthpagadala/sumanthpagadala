@@ -31,15 +31,14 @@
 
 ```yaml
 name: Sumanth Pagadala
-located_in: India
-current_job: AI Engineer
+located_in: United Kingdom
+
 education:
   [
     "Self-Taught Developer and Trainer",
-    "About to startMaster's in Electrical and Computer Engineering",
+    "Master's in Artificial Intelligence; RHUL",
     "Bachelor's in Computer Science and Engineering",
   ]
-Company: Atomstate
 
 fields_of_interests:
   [
@@ -54,10 +53,10 @@ technical History:
 
     "AI & NLP Intern - Atomstate",
     "Tech Lead - Innovation Cell, KGRCET",
-    "Research Intern - International Institution of Technology, Hyderabad",
+    "ML Student Researcher - International Institution of Technology, Hyderabad",
   ]
   
-currently_learning: ["Docker, Kubernetes, Frameworks"]
+Current Projects: ["Perplexity checker", "Lecture Generator", "Learning_AI" ]
 hobbies: ["Gaming", "Cinema", "Novels", "Streaming"]
 ```
   
