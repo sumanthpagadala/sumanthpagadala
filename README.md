@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on ConSenBert<br>👯 Always love to collaborate with people and work<br>🧑🏻‍🎓 Completed masters in AI At Royal Holloway, University of London<br>🦾 Interested in LLM's and Gen AI<br>🏙️ Presently, living in London<br>⚡ Fun fact about me: I made plants talk..... using AI and IoT
+🔭 Currently working on Jarvis<br>👯 Always love to collaborate with people and work<br>🧑🏻‍🎓 Completed masters in AI At Royal Holloway, University of London<br>🦾 Interested in LLM's and Gen AI<br>🏙️ Presently, living in London<br>⚡ Fun fact about me: I made plants talk..... using AI and IoT
 
 
 ## 🌐 Socials:
